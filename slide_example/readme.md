@@ -1,1 +1,1 @@
-[slide link](/yihui_xaringan.html)
+[slide link](/slide_example/yihui_xaringan.html)
